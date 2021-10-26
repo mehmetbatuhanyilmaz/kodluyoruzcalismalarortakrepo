@@ -4,5 +4,5 @@
 * Çalışmalarım güncellendikçe ReadMe üzeriden sıralı listede Ödevler ve Çalışmalar yer alacaktır.
 
 
-1.HTML ÖDEV 1 EKLENDİ
-2.HTML ÖDEV 2 EKLENDİ
+1. HTML ÖDEV 1 EKLENDİ
+2. HTML ÖDEV 2 EKLENDİ
