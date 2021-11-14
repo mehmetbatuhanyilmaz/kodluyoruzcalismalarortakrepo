@@ -18,9 +18,9 @@ CSS
 
 CSS/BOOTSTRAP
 ---
-1. BOOTSTRAP Ödev 1 EKLENDİ
-2. BOOTSTRAP Ödev 2 ( INSTAGRAM KLON) 
-3. BOOTSTRAP Ödev 3 ( LINKEDIN KLON) 
+1. BOOTSTRAP Ödev 1 
+2. BOOTSTRAP Ödev 2 -Instagram Klon
+3. BOOTSTRAP Ödev 3 -LinkedIn Klon
 
 JAVASCRIPT
 ---
