@@ -5,29 +5,30 @@
 
 HTML
 ---
-1. HTML ÖDEV 1 
-2. HTML ÖDEV 2 
-3. BÖLÜM SOPNU ORTAK ÇALIŞMA HTML 
-4. ÖDEV 3 HTML 
+1. HTML Ödev 1 
+2. HTML Ödev 2 
+3. BÖLÜM Sonu Ortak Çalışma HTML 
+4. HTML Ödev 3 
 
 CSS
 ---
-1. CSS ÖDEV 1 
-2. CSS ÖDEV 2 
-3. CSS ÖDEV 3 
+1. CSS Ödev 1 
+2. CSS Ödev 2 
+3. CSS Ödev 3 
 
 CSS/BOOTSTRAP
 ---
-1. BOOTSTRAP ÖDEV 1 EKLENDİ
-2. BOOTSTRAP ÖDEV 2 ( INSTAGRAM KLON) 
-3. BOOTSTRAP ÖDEV 3 ( LINKEDIN KLON) 
+1. BOOTSTRAP Ödev 1 EKLENDİ
+2. BOOTSTRAP Ödev 2 ( INSTAGRAM KLON) 
+3. BOOTSTRAP Ödev 3 ( LINKEDIN KLON) 
 
 JAVASCRIPT
 ---
-1. ÖDEV 1 JS 
-2. ÖDEV 2 JS 
-3. ÖDEV 3 JS 
+1. JS Ödev 1  
+2. JS Ödev 2  
+3. JS Ödev 3  
 
 REACT
 ---
 1. React Homework-1
+2. React-App-Ödev-2
